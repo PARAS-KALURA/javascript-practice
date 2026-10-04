@@ -31,6 +31,6 @@
 // ];
 
 // const qaUser = users.find(user => user.role === "qa" )
-// console.log(qaUser);
+// c0onsole.log(qaUser);
 
 
