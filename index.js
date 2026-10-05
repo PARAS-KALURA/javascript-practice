@@ -31,6 +31,6 @@
 // ];
 
 // const qaUser = users.find(user => user.role === "qa" )
-// c0onsole.log(qaUser);
+// c0jonsole.log(qaUser);
 
 
