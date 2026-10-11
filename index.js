@@ -33,4 +33,8 @@
 // const qaUser = users.find(user => user.role === "qa" )
 // c0jonsole.ljlog(qaUser);
 
+const a = "hello";
+const b = a.split("").reverse().join("");
+console.log(b);
+
 
