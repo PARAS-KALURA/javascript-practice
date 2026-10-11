@@ -33,8 +33,12 @@
 // const qaUser = users.find(user => user.role === "qa" )
 // c0jonsole.ljlog(qaUser);
 
-const a = "hello";
-const b = a.split("").reverse().join("");
-console.log(b);
+// const a = "hello";
+// const b = a.split("").reverse().join("");
+// console.log(b);
 
+// const word = "madam";
+// const reversed = word.split("").reverse().join("");
+
+// console.log(word === reversed);
 
